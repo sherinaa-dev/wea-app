@@ -9,9 +9,9 @@
 
 
 <div style="display: inline_block" align="center"><br>
-  <img width="200px" height="400px"" style="object-fit: contain" src="" alt="homescreen"/>
-  <img width="200px" height="400px" style="object-fit: contain" src="" alt="searchscreen"/>
-  <img width="200px" height="400px" style="object-fit: contain" src="" alt="forecastscreen"/>
+  <img width="200px" height="400px"" style="object-fit: contain" src="https://github.com/eraydmrcoglu/React-Native-Weather-App/assets/75967993/ae837887-4aa9-46f7-9c33-9e505fa20bdb" alt="homescreen"/>
+  <img width="200px" height="400px" style="object-fit: contain" src="https://github.com/eraydmrcoglu/React-Native-Weather-App/assets/75967993/71490e7d-1382-4533-a04f-6756a643bbc1" alt="searchscreen"/>
+  <img width="200px" height="400px" style="object-fit: contain" src="https://github.com/eraydmrcoglu/React-Native-Weather-App/assets/75967993/d1289075-73c8-4181-8b8f-b8d1480a81f5" alt="forecastscreen"/>
 </div>
 
 <div align="center">
